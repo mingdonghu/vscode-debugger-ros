@@ -10,6 +10,10 @@
 3.  下载此示例
 ```bash
 git clone https://gitee.com/mingdonghu/vscode-debugger-ros1_2.git
+
+# or
+
+git clone https://github.com/mingdonghu/vscode-debugger-ros1_2.git
 ```
 
 #### 参与贡献
