@@ -1,4 +1,4 @@
-# vscode-debugger-ros1_2
+# vscode-debugger-ros
 
 #### 介绍
 基于vscode编辑器利用ROS插件调试ROS1、ROS2功能包程序的示例工程
@@ -9,11 +9,11 @@
 2.  ROS2功能包示例为[learn_ros2_ws](./learn_ros2_ws),相关vscode配置文件在其工作空间下的.vscode文件夹
 3.  下载此示例
 ```bash
-git clone https://gitee.com/mingdonghu/vscode-debugger-ros1_2.git
+git clone https://gitee.com/mingdonghu/vscode-debugger-ros.git
 
 # or
 
-git clone https://github.com/mingdonghu/vscode-debugger-ros1_2.git
+git clone https://github.com/mingdonghu/vscode-debugger-ros.git
 ```
 
 #### 参与贡献
